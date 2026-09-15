@@ -1,0 +1,5 @@
+# Controle Gerencial em Organização Pública
+
+O controle gerencial consiste no conjunto de instrumentos e práticas que permitem aos gestores públicos avaliar a eficiência, eficácia e economicidade na utilização de recursos públicos, assegurando o cumprimento de metas e a qualidade dos serviços prestados à população. A Constituição Federal de 1988 e a Lei nº 8.666/1993 estabeleceram bases para o controle, mas foi a Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) que consolidou a obrigatoriedade de planejamento e controle na gestão pública. O controle gerencial abrange tanto a verificação de conformidade com normas legais quanto a análise de resultados e desempenho organizacional. Diferente do controle institucional, que prioriza a legalidade, o controle gerencial busca a melhoria contínua dos processos internos e a tomada de decisão baseada em evidências. É um instrumento essencial para a governança pública, contribuindo para a transparência e a accountability dos agentes públicos.
+
+**Referência:** CAVALCANTI, Ricardo. **Gestão pública e cidadania:** ferramentas para a administração municipal. São Paulo: Fundação Getulio Vargas, 2009.

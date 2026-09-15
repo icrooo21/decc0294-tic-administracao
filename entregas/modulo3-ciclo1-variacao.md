@@ -1,0 +1,5 @@
+# Inquérito na Área Jurídica
+
+O inquérito policial é o instrumento de apuração de infrações penais, conduzido pela autoridade policial, destinado a colher elementos de informação para fundamentar a eventual oferecimento de denúncia pelo Ministério Público. Trata-se de procedimento administrativo inquisitorial, de caráter preparatório e sigiloso, que não possui natureza jurisdicional. A autoridade policial deve respeitar os direitos e garantias fundamentais do investigado durante a apuração. Conforme a Constituição Federal, o inquérito policial deverá ser concluído no prazo de 10 dias, prorrogável por igual período, quando o investigado estiver preso. O Supremo Tribunal Federal tem entendimento consolidado de que o inquérito policial é indispensável à persecução penal.
+
+**Autor referenciado:** Aury Lopes Jr., em sua obra *Direito Processual Penal*, aborda a natureza e a função do inquérito policial como fase preparatória da persecução penal, destacando sua indispensabilidade e os limites de sua atuação.
